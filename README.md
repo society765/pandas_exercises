@@ -2,7 +2,7 @@
 
 ## Comment 
 
-I use this project to practice pandas. I have finished 01, 02, 03, 04, 09. 
+I use this project to practice pandas. I have finished 01, 02, 03, 04, 05, 06, 08, 09, 10. 
 
 All below parts of the README are from the original author. Many thanks! 
 
